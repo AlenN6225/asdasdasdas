@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+vps.apponfly.com	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.r1UshdfO91o	CfDJ8I5chvYyCSpNr5B3ZIFGm_gSdzNbw7T9gAKo8SBuxeCSAscQkToan0YFFmVBQvw7k-RtSBUG98O6hfC7M-DMLqbHOrpdy9sJeI5Ci3STCR_rgsz2gQwGyiYasY-X0i6m5FQjZsUmfeRqCZZxJYWOHho
+vps.apponfly.com	TRUE	/	FALSE	1999999999	samesite	strict
+
